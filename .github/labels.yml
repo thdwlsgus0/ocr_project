@@ -1,0 +1,23 @@
+- name: FE
+  color: d73a4a
+  description: 프론트엔드 이슈
+
+- name: BE
+  color: a2eeef
+  description: 백엔드 이슈
+
+- name: 디자인
+  color: 0075ca
+  description: 디자인 이슈
+
+- name: 버그
+  color: b60205
+  description: 버그 이슈
+
+- name: AI
+  color: 0e8a16
+  description: AI 관련 이슈
+
+- name: 문서
+  color: 0e8a16
+  description: 문서화
